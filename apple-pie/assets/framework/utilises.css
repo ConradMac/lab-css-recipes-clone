@@ -1,0 +1,19 @@
+.unlisted {
+    list-style: none;
+}
+
+.flex {
+    display: flex;
+}
+
+.jcc {
+    justify-content: center;
+}
+
+.absolute {
+    position: absolute;
+}
+
+.relative {
+    position: relative;
+}
